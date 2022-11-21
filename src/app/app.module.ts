@@ -6,7 +6,6 @@ import { GrocerySearchComponent } from './grocery-search/grocery-search.componen
 import {MatFormFieldModule} from '@angular/material/form-field';
 import {MatInputModule} from '@angular/material/input'
 import { ReactiveFormsModule } from '@angular/forms';
-import { ListDataComponent } from './list-data/list-data.component';
 import { FormsModule } from '@angular/forms';
 
 @NgModule({
